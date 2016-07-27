@@ -1,0 +1,12 @@
+Package: MWLasso
+Type: Package
+Title: A penalized Moving-Window Lasso (MWLasso) method for genome-wide
+    association studies.
+Version: 1.0
+Date: 2016-07-25
+Author: Minli Bao
+Maintainer: Minli Bao <minli-bao@uiowa.edu>
+Description: A package containing functions for MWLasso method for genome-wide
+    association studies.
+License: GPL
+RoxygenNote: 5.0.1
